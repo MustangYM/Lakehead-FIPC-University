@@ -17,3 +17,7 @@ potential and dreams that should not be confined or limited.
 | [MALTF](https://github.com/MALTF) | 高级CV开发工程师 |
 | [iuv](https://github.com/Jovesong-iuv) | 我是一名艺人 |
 
+## Contributors
+
+This project exists thanks to all the people who contribute。
+<a href="https://github.com/MustangYM/Lakehead-FIPC-University/graphs/contributors"><img src="https://opencollective.com/mustangym666/contributors.svg?width=890&button=false" /></a>
