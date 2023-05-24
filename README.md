@@ -6,6 +6,8 @@ becoming security guards to avoid embarking on a long and winding path, remember
 re merely milestones on the journey of life, not your ultimate destination! You carry within you boundless 
 potential and dreams that should not be confined or limited.
 ```
+This project exists thanks to all the people who contribute. [[Contribute]](https://github.com/MustangYM/Lakehead-FIPC-University/blob/master/CONTRIBUTING.md).
+<a href="https://github.com/MustangYM/Lakehead-FIPC-University/graphs/contributors"><img src="https://opencollective.com/lakehead-fipc-university/contributors.svg?width=890" /></a>
 
 | Name                                           | Introduce |
 |------------------------------------------------| --- |
