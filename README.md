@@ -21,3 +21,4 @@ potential and dreams that should not be confined or limited.
 | [Yiyang](https://github.com/yangqiyue) | 共产主义接班人 |
 | [plusOneSecond](https://github.com/plusOneSecond) | 我是一个搬运工 |
 | [c0618](https://github.com/c0618) | 我也是一名保安 |
+| [JyCyunMe](https://github.com/JyCyunMe) | 想吃锈のGopher |
