@@ -22,3 +22,4 @@ potential and dreams that should not be confined or limited.
 | [plusOneSecond](https://github.com/plusOneSecond) | 我是一个搬运工 |
 | [c0618](https://github.com/c0618) | 我也是一名保安 |
 | [JyCyunMe](https://github.com/JyCyunMe) | 想吃锈のGopher |
+| [维c](https://github.com/WangChenlin520) | Java代码猿 |
